@@ -17,7 +17,7 @@ This project showcases a payroll data warehouse. The main SQL script transforms 
 The payroll dataset includes employee records, salary details, attendance logs, tax deductions, and benefits information. For demonstration purpose, data was manually generated with Python, in a real-case scenario, these are typically exported from HR/payroll systems and ingested into the pipeline for processing and analytics.
 
 <p align="center">
-    <img src="Payroll Dataset Generator/source_relational_model.png"" alt="source-relational-model" style="border-radius: 10px;">
+    <img src="Payroll Dataset /source_relational_model.png"" alt="source-relational-model" style="border-radius: 10px;">
     </br>
   Source Relational Model
 </p>
