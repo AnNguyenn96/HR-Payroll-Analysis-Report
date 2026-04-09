@@ -81,6 +81,9 @@ Data are passed through 3 layers:
 
 ## 📈 Business Insights
 
+## 🎯 Overall Problem Statement  
+Ensure employees are not underpaid according to Australian employment laws, while monitoring payroll variance driven by overtime and workforce utilization.
+
 ## 🔍 Page 1 – Executive Payroll Overview
 
 Ensure employees are not underpaid against Australian employment laws, while monitoring payroll variance caused by overtime and workforce inefficiencies.
