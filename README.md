@@ -166,7 +166,7 @@ Identify employee-level drivers of payroll variance.
 ## ⚙️ Page 4 – Workforce Behavior & Cost Efficiency  
 
 <p align="center">
-    <img src="Power BI/Page 2 Payroll Compliance Analysis.png" alt="Employee Analysis" style="border-radius: 10px;">
+    <img src="Power BI/Page 4 Workforce Behavior & Cost Efficiency.png" alt="Employee Analysis" style="border-radius: 10px;">
     </br>
   Workforce Behavior & Cost Efficiency
 </p>
