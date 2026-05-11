@@ -6,7 +6,7 @@ This project showcases a payroll data warehouse. The main SQL script transforms 
 
 ## 📑 Table of Contents
 - 📊 [Data Source](#-data-source)
-- 🏗️ [Architecture](#-architecture)
+- 🏗️ [Architecture](#architecture)
 - 🧠 [Semantic Model](#-semantic-model)
 - 📈 [Business Insights](#-business-insights)
   - 🔍 [Overview](#-overview)
