@@ -9,10 +9,10 @@ This project showcases a payroll data warehouse. The main SQL script transforms 
 - 🏗️ [Architecture](#-architecture)
 - 🧠 [Semantic Model](#-semantic-model)
 - 📈 [Business Insights](#-business-insights)
-  - 🔍 [Overview](#-overview)
-  - ⚖️ [Payroll Compliance Analysis](#-payroll-compliance-analysis)
-  - 👥 [Employee Details](#-employee-details)
-  - ⚙️ [Workforce Behavior & Cost Efficiency](#workforce-behavior--cost-efficiency)
+  - 🔍 [Overview](#--overview)
+  - ⚖️ [Payroll Compliance Analysis](#--payroll-compliance-analysis)
+  - 👥 [Employee Details](#--employee-details)
+  - ⚙️ [Workforce Behavior & Cost Efficiency](#--workforce-behavior--cost-efficiency)
 ---
 
 ## 📊 Data Source
