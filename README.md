@@ -83,7 +83,13 @@ Data are passed through 3 layers:
 ## 📈 Business Insights
 
 ## 🎯 Overall Problem Statement  
-Ensure employees are not underpaid according to Australian employment laws, while monitoring payroll variance driven by overtime and workforce utilization.
+
+This project aims to answer the following key business questions:
+
+- Are employees being paid at or above the minimum entitlements required under Australian employment laws and modern awards?
+- What are the main drivers of payroll variance, including overtime, allowances, bonuses, and penalty rates?
+- Which employees, departments, or job roles present the highest compliance risk or incur the greatest payroll cost?
+- How does workforce utilization (overtime, undertime, and leave patterns) impact overall payroll efficiency and labour costs?
 
 ## 🔍 Page 1 – Executive Payroll Overview
 
@@ -147,6 +153,7 @@ Detect underpayment risk by comparing actual pay against mandatory pay baseline.
     </br>
   Employee Analysis
 </p>
+
 ### 🎯 Objective  
 Identify employee-level drivers of payroll variance.
 
